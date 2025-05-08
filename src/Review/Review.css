@@ -1,0 +1,21 @@
+.all-review {
+  display: flex;
+  width: 1558px;
+}
+.review-heading {
+  justify-items: center;
+  margin-top: 100px;
+  margin-left: 567px;
+}
+.review {
+  width: 490px;
+  height: 495px;
+  margin-left: 181px;
+  margin-top: 100px;
+}
+.ratings {
+  display: flex;
+  gap: 20px;
+  border-top: 1px solid rgb(235, 219, 219);
+  padding-top: 20px;
+}

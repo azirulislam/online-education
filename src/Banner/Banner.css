@@ -1,0 +1,27 @@
+.banner {
+  width: 1674px;
+  height: 827px;
+  margin-top: 90px;
+  display: flex;
+}
+.left-side {
+  width: 715px;
+  height: 519px;
+  margin-top: 100px;
+  margin-left: 180px;
+}
+.btn-j1 {
+  background-color: #f5c362;
+  border-radius: 25px;
+  padding: 10px;
+}
+.btn-j2 {
+  margin-left: 20px;
+  padding: 10px;
+  border-radius: 25px;
+}
+.right-side {
+  width: 837px;
+  height: 827px;
+  margin-left: 202px;
+}

@@ -1,0 +1,17 @@
+.b-bottom {
+  background-color: blue;
+  width: 1920px;
+  height: 273px;
+  margin-top: 150px;
+}
+.stories {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  width: 1561px;
+  height: 112px;
+  margin-left: 180px;
+  align-items: safe center;
+  padding-top: 100px;
+  color: #ffffff;
+}

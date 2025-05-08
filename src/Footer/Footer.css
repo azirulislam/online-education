@@ -1,0 +1,27 @@
+.footer {
+  background-color: #0166ff;
+  width: 1920px;
+  height: 626px;
+}
+.social {
+  margin-left: 180px;
+  color: #ffffff;
+  padding-top: 120px;
+}
+.s-icon {
+  margin-left: 180px;
+}
+.icon-img {
+  margin-right: 30px;
+}
+.contact {
+  display: flex;
+  color: #ffffff;
+  margin-left: 600px;
+  gap: 300px;
+}
+.copyright {
+  justify-items: center;
+  color: #ffffff;
+  padding-top: 100px;
+}

@@ -1,0 +1,26 @@
+.heading {
+  justify-items: center;
+  margin-left: 560px;
+  margin-top: 60px;
+}
+.services {
+  width: 1561px;
+  display: flex;
+  margin-left: 180px;
+  margin-top: 70px;
+}
+.ser-banner {
+  width: 1559px;
+  display: flex;
+  margin-left: 181px;
+  margin-top: 90px;
+}
+.ban-right {
+  margin-left: 90px;
+  margin-top: 80px;
+}
+.ban-btn {
+  background-color: #f5c362;
+  border-radius: 25px;
+  padding: 10px;
+}

@@ -1,0 +1,27 @@
+.navbar {
+  width: 1560px;
+  height: 62px;
+  display: flex;
+  place-content: space-between;
+  margin-left: 180px;
+}
+.img {
+  width: 129px;
+  height: 38px;
+}
+.navbar ul{
+  width: 457px;
+  height: 33px;
+  margin-top: 25px;
+}
+.navbar ul li {
+  display: inline-block;
+  color: #327186;
+  padding-left: 65px;
+}
+.btn {
+  width: 161px;
+  height: 62px;
+  background-color: #F5C362;
+  border-radius: 40px;
+}

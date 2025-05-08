@@ -1,0 +1,34 @@
+.p-heading {
+  justify-items: center;
+  margin-top: 100px;
+  margin-left: 567px;
+}
+.card-group {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin-top: 90px;
+  margin-left: 180px;
+  gap: 60px;
+}
+.card {
+  width: 419;
+  height: 505px;
+  justify-items: center;
+}
+.card-btn {
+  width: 347px;
+  height: 56px;
+  border-radius: 15px 0px 15px 15px;
+  margin-top: 60px;
+}
+.see-btn {
+  width: 183px;
+  height: 62px;
+  margin-left: 800px;
+  border-radius: 25px;
+  margin-top: 30px;
+  background-color: #f5c362;
+}
+.rating {
+  margin-left: 30px;
+}
